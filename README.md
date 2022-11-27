@@ -11,13 +11,36 @@
 </div>
 
 -----
+  <details>
+    <summary><img src="https://user-images.githubusercontent.com/97047941/204160676-29a5d9ff-d0d4-4e26-83a9-fbd6fcfe5afc.gif" height="16" width="20" alt="lang"> Languages I know </summary>
+    <div align="center">
+    <samp>
+      <br/>
+      <p>
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" height="40">
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" height="40">
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" height="40">
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="js" height="40">
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" height="40">
+        <img src="https://user-images.githubusercontent.com/97047941/204161311-eb2b148f-5e79-4199-ae38-6f1e6618de2f.png" alt="html" height="40">
+        <img src="https://user-images.githubusercontent.com/97047941/204161468-4a63626f-7d0a-42b4-ba89-582b361bcc93.png" alt="css" height="40">
+      </p>
+      <p>
+        <img src="https://user-images.githubusercontent.com/97047941/204161538-934037b8-5a13-4dee-8d63-0b45d4eb033f.png" alt="node-js" height="40">
+        <img src="https://user-images.githubusercontent.com/97047941/204161619-1671cb08-3097-4a8b-907b-ef9b6f9dd831.png" alt="solidity" height="40">
+      </p>
+<br>
+      </samp>
+      </div>
+  </details>
 <details>
   <summary>☎️ contact me</summary>
 <div>
   <samp>
     <h2 align="center">some of my socials:</h2>
     <p align="center">
-      <br/>
       <a href="https://www.linkedin.com/in/pulkit-sinha-078992228/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=gold"
          alt="pulkit" height="30"/></a>
