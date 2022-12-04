@@ -105,7 +105,8 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/sparks-fly13/github-readme-activity-graph">
-  <img alt="pulkit's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=sparks-fly13&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="pulkit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sparks-fly13&theme=dracula&hide_border=true" />
+</a>
 <br/>
   </samp>
   </details>
