@@ -96,7 +96,7 @@
      <br>
       <p>
         <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=akame&label=Profile%20Views&color=11&icon=5&pretty=false" />
+  <center><img src="https://visitcount.itsvg.in/api?id=akame&label=Profile%20Views&color=11&icon=5&pretty=false" /></center>
 </a>
       </p>
      </samp>
@@ -125,6 +125,3 @@
     </div>
  </details>
   
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=akame&label=Profile%20Views&color=11&icon=5&pretty=false" />
-</a>
