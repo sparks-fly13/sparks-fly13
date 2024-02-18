@@ -51,7 +51,7 @@
          alt="pulkit" height="30"/>akamé#4192</a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/sparksfly.__" target="blank"><img align="center"
+      <a href="https://instagram.com/sparksflyy._" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=gold"
          alt="azzar" height="30"/></a>
       <a href="https://twitter.com/akame13__" target="blank"><img align="center"
